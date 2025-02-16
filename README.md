@@ -1,6 +1,6 @@
 ## Welcome to my Github
 
-My name is Marvin Steckel and I'm learning Web Dev @neuefische.de
+My name is Marvin Steckel and I'm a Full Stack Developer, mainly working with Node, TypeScript, React, NestJS
 
 There's not much to say about me, but I like ducks :)
 
